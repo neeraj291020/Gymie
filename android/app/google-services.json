@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1610232786",
+    "project_id": "gymie-87812",
+    "storage_bucket": "gymie-87812.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1610232786:android:9977eb1ca5b70154ccce0b",
+        "android_client_info": {
+          "package_name": "com.example.gymie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1610232786-c350v5qi5ccp3k2o6v08fc2sqcs2h7g0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtt1ckCoNZE_VupyojX7xc8anwVUP7RpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1610232786-c350v5qi5ccp3k2o6v08fc2sqcs2h7g0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
